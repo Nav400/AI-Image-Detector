@@ -144,8 +144,3 @@ Test accuracy: 0.9535
 
 ---
 
-## Acknowledgements
-
-Dataset: J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. *The German Traffic Sign Recognition Benchmark: A multi-class classification competition.* Proceedings of the IEEE International Joint Conference on Neural Networks, pp. 1453–1460, 2011.
-
-Project specification by [CS50 AI](https://cs50.harvard.edu/ai/).
