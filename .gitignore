@@ -1,0 +1,4 @@
+gtsrb/
+.venv/
+__pycache__/
+*.pyc
